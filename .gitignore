@@ -1,0 +1,14 @@
+vendor
+.idea
+
+assets/Wav2Lip/*
+!assets/Wav2Lip/.gitkeep
+!assets/Wav2Lip/checkpoints/
+assets/Wav2Lip/checkpoints/*
+!assets/Wav2Lip/checkpoints/mobilenet.pth
+
+assets/sources/*
+!assets/sources/.gitkeep
+
+results/*
+!results/.gitkeep
